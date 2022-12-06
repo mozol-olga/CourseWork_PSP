@@ -7,7 +7,7 @@
     /// <summary>
     /// Конфигурация сервисов API.
     /// </summary>
-    public static class ConfigureApiServices
+    public static class ConfigureServices
     {
         /// <summary>
         /// Метод расширения для IServiceCollection для добавления API сервисов.
